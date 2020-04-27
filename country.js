@@ -13,6 +13,7 @@ $(document).ready(function () {
                 { data: "TotalRecovered" },
                 { data: "TotalDeaths" },
                 
+                
 
             ],
         });
